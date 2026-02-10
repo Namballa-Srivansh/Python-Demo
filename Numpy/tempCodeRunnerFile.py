@@ -1,0 +1,1 @@
+array = array.reshape(2, 6)
