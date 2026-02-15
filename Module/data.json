@@ -1,0 +1,5 @@
+{
+    "name": "Test User",
+    "isStudent": true,
+    "scores": [10, 20, 30]
+}
