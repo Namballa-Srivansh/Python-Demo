@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "department": "HR",
+    "salary": 50000
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 34,
+    "department": "Engineering",
+    "salary": 85000
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "age": 29,
+    "department": "Marketing",
+    "salary": 60000
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "age": 41,
+    "department": "Finance",
+    "salary": 95000
+  },
+  {
+    "id": 5,
+    "name": "Ethan Hunt",
+    "age": 36,
+    "department": "Operations",
+    "salary": 78000
+  }
+]
